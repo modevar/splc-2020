@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "~> 206", group: :jekyll_plugins
 
 gem "tzinfo-data"
 gem "activesupport", ">= 4.1.11"

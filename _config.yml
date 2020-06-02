@@ -1,5 +1,5 @@
 ---
-title: MODEVAR 2020-2
+title: MODEVAR@SPLC 2020
 timezone: UTC
 collections:
   pages:
@@ -44,7 +44,7 @@ baseurl:
 repository: modevar/modevar.github.io
 teaser: 
 logo: 
-masthead_title: MODEVAR <span style="color:#0092ca;">2020-2</span>
+masthead_title: MODEVAR<span style="color:#0092ca;">@SPLC 2020</span>
 words_per_minute: 200
 comments:
   provider: 

@@ -1,10 +1,10 @@
 ---
-permalink: /submission/
-title: "Submission Guidelines"
+title: Submission Guidelines
+permalink: "/submission/"
 author_profile: true
 classes: wide
-redirect_from: 
-  - /call-for-papers/
+redirect_from:
+- "/call-for-papers/"
 ---
 
 ## [Submission link](https://easychair.org/conferences/?conf=splc2020)

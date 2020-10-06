@@ -17,7 +17,7 @@ redirect_from:
 | ----------------- |-------------------------------- |
 |  8:30am - 10:00am | [__MODEVAR Session 1__](#modevar-session-1-830am---1000am) |
 |                   | __Keynote: “The Dhall Configuration Language”__  _Gabriel Gonzalez_ (45 min) |
-|                   | __“Towards a Universal Variability Language”__ _Dominik Engelhardt, Thomas Thüm, Ina Schaefer_  (~35 min) | 
+|                   | __“Towards a Universal Variability Language”__ _Dominik Engelhardt, Chico Sundermann, Thomas Thüm, Ina Schaefer_  (~35 min) | 
 | 10:30am - 12:00pm | [__MODEVAR Session 2__](#modevar-session-2-1030am---1200pm)           |
 |                   | __“Towards Transforming Variability Models: Usage Scenarios, Required Capabilities and Challenges”__ _Kevin Feichtinger and Rick Rabiser_ (45 min) |
 |                   | __“A Python framework for the automated analysis of feature models.”__ _José A. Galindo and David Benavides_  (45 min) |

@@ -16,13 +16,13 @@ redirect_from:
 |  Time             | Session                         |
 | ----------------- |-------------------------------- |
 |  8:30am - 10:00am | [__MODEVAR Session 1__](#modevar-session-1-830am---1000am) |
-|                   | __Keynote: “The Dhall Configuration Language”__  _Gabriel Gonzalez_ (45 min) |
+|                   | __Keynote: “Standardizing languages – promises and perils”__ _Oysten Haugen_ (45 min) |
 |                   | __“Towards a Universal Variability Language”__ _Dominik Engelhardt, Chico Sundermann, Thomas Thüm, Ina Schaefer_  (~35 min) | 
 | 10:30am - 12:00pm | [__MODEVAR Session 2__](#modevar-session-2-1030am---1200pm)           |
 |                   | __“Towards Transforming Variability Models: Usage Scenarios, Required Capabilities and Challenges”__ _Kevin Feichtinger and Rick Rabiser_ (45 min) |
 |                   | __“A Python framework for the automated analysis of feature models.”__ _José A. Galindo and David Benavides_  (45 min) |
 |  12:30pm - 2:00pm |  [__MODEVAR Session 3__](#modevar-session-3-1230pm---2pm)          |
-|                   | __Keynote: “Standardizing languages – promises and perils”__ _Oysten Haugen_ (45 min) |
+|                   | __Keynote: “The Dhall Configuration Language”__  _Gabriel Gonzalez_ (45 min) |
 |                   | __Final discussions (summary, action points, etc.)__  | 
 
 
@@ -33,10 +33,10 @@ redirect_from:
 
 ## MODEVAR Session 1, 8:30am - 10:00am
 
-__Keynote: “The Dhall Configuration Language”__ 
-_Gabriel Gonzalez_ (45 minutes, including Q/A)
+__Keynote: “Standardizing languages – promises and perils”__
+_Oystein Haugen_   (45 minutes, including Q/A)
 
-Dhall is a configuration language that began life as an academic exercise in building a non-Turing-complete programming language and then evolved into an industrial language with IDE support, a package ecosystem, a language standard, and even some amateur marketing.  This talk will highlight some features of Dhall that might inspire feature modeling languages such as declarative syntax, strong normalization, and dependent types.  Additionally, the talk will cover lessons learned about building tooling and mindshare to promote adoption of a fledgling language.
+Oystein will *not* only talk about his experience with the Common Variability Language (CVL) standardization. Oystein has been involved with a number of standardization efforts on languages in both ITU and OMG, and will talk about standardizing languages in a broad sense, including promises and perils.
 
 __“Towards a Universal Variability Language”__ 
 _Dominik Engelhardt, Thomas Thüm, Ina Schaefer_  (~35 minutes, including Q/A)
@@ -65,9 +65,9 @@ Feature modeling is the ``de facto'' standard to describe the common and variant
 
 ## MODEVAR Session 3, 12:30pm - 2pm
 
-__Keynote: “Standardizing languages – promises and perils”__
-_Oystein Haugen_   (45 minutes, including Q/A)
+__Keynote: “The Dhall Configuration Language”__ 
+_Gabriel Gonzalez_ (45 minutes, including Q/A)
 
-Oystein will *not* only talk about his experience with the Common Variability Language (CVL) standardization. Oystein has been involved with a number of standardization efforts on languages in both ITU and OMG, and will talk about standardizing languages in a broad sense, including promises and perils.
+Dhall is a configuration language that began life as an academic exercise in building a non-Turing-complete programming language and then evolved into an industrial language with IDE support, a package ecosystem, a language standard, and even some amateur marketing.  This talk will highlight some features of Dhall that might inspire feature modeling languages such as declarative syntax, strong normalization, and dependent types.  Additionally, the talk will cover lessons learned about building tooling and mindshare to promote adoption of a fledgling language.
 
 __Final discussions (summary, action points, etc.)__

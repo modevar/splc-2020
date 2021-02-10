@@ -8,16 +8,17 @@ redirect_from:
 ---
 
 ## Organizing Committee
+* Mathieu Acher, University of Rennes 1, France
+* Philippe Collet, University of Nice Sophia Antipolis, France
 * David Benavides, University of Sevilla, Spain
 * Rick Rabiser,  University Linz, Austria
-* Don Batory, University of Texas at Austin, USA
-* Mathieu Acher, University of Rennes 1, France
 
 ## Programme Commitee
 * Mathieu Acher, University of Rennes 1, France
 * Don Batory, University of Texas at Austin,USA
 * David Benavides, University of Sevilla, Spain
 * Thorsten Berger, Chalmers University, Sweden
+* Don Batory, University of Texas at Austin, USA
 * Philippe Collet, University of Nice Sophia Antipolis, France
 * Oscar Díaz, University of Basque Country, Spain
 * Lidia Fuentes, University of Málaga, Spain
